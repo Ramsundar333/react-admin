@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7735000000006122",
+      "name": "Admin-Dashboard",
+      "domain": {
+        "id": "50021333833",
+        "name": "admin-dashboard-60030874642.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030874642",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
